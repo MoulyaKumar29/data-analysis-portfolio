@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Medical_Condition,Blood_Pressure,Glucose_Level,Treatment,Recovery_Status,Age_Group
+1001,25,Female,Diabetes,120,90,Medication,Recovered,0–30
+1002,34,Male,Hypertension,145,105,Lifestyle,Improved,31–45
+1003,45,Female,Asthma,118,95,Medication,Recovered,31–45
+1004,52,Male,Diabetes,150,180,Medication,Improved,46–60
+1005,60,Female,Heart Disease,160,110,Surgery,Improved,46–60
+1006,29,Male,Asthma,115,88,Lifestyle,Recovered,0–30
+1007,41,Female,Hypertension,140,102,Medication,Improved,31–45
+1008,55,Male,Diabetes,155,195,Medication,Recovered,46–60
+1009,67,Female,Heart Disease,165,115,Surgery,Improved,61–100
+1010,38,Male,Asthma,122,92,Lifestyle,Recovered,31–45
+1011,48,Female,Diabetes,148,175,Medication,Improved,46–60
+1012,72,Male,Hypertension,170,108,Lifestyle,Improved,61–100
+1013,31,Female,Asthma,119,97,Medication,Recovered,31–45
+1014,59,Male,Heart Disease,158,120,Surgery,Improved,46–60
+1015,63,Female,Diabetes,152,185,Medication,Recovered,61–100
+1016,27,Male,Hypertension,135,100,Lifestyle,Improved,0–30
+1017,44,Female,Asthma,125,94,Medication,Recovered,31–45
+1018,50,Male,Diabetes,149,190,Medication,Improved,46–60
+1019,69,Female,Heart Disease,162,112,Surgery,Improved,61–100
+1020,36,Male,Hypertension,138,103,Lifestyle,Recovered,31–45
