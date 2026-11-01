@@ -1,55 +1,64 @@
-# Business Sales Analysis
+# Data Analysis Portfolio — Moulya T K
 
-## Project Overview
-This project analyzes sample business sales data using Python to identify revenue trends, product performance, and regional sales performance.
+Welcome to my Data Analysis Portfolio! This repository showcases five projects using Python to explore datasets, perform analysis, identify patterns, and create visualizations.
 
-## Objectives
-- Calculate total and average revenue.
-- Identify the best-performing products.
-- Compare sales across regions and categories.
-- Analyze monthly revenue trends.
-- Visualize sales data using charts.
+## About Me
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- SciPy
-- Plotly
-- Jupyter Notebook
+I am an Electronics and Communication Engineering graduate building my skills in Python programming, data analysis, statistics, and data visualization.
 
-## Key Findings
-- **Total Revenue:** ₹5,15,500
-- **Total Orders:** 10
-- **Total Units Sold:** 29
-- **Average Revenue per Order:** ₹51,550
-- **Highest-Revenue Product:** Laptop
-- **Highest-Revenue Region:** South
-- **Highest-Revenue Category:** Electronics
+## Technical Skills
 
-## Visualizations
-The notebook includes:
-- Product revenue comparison
-- Regional revenue comparison
-- Product revenue contribution
-- Monthly revenue trend
-- Order revenue distribution
-- Numerical correlation heatmap
-- Product performance ranking
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
+- **Data Formats:** CSV
 
-## Recommendations
-1. Monitor laptop and tablet inventory because they generate the highest revenue.
-2. Investigate regional sales differences to identify opportunities for growth.
-3. Review the performance of products with lower revenue.
-4. Collect more sales records to improve the reliability of future analysis.
+## Projects
 
-## Limitations
-This project uses a small sample dataset of 10 orders. The findings are illustrative and should not be treated as conclusions about a real business.
+### 1. Business Sales Analysis
+Analyzed sales data to identify revenue trends, top-performing products, category performance, and regional sales.
 
-## How to Run
-1. Install Python.
-2. Install the required libraries.
-3. Open `Week1_Business_Sales_Analysis.ipynb` in Jupyter Notebook.
-4. Run the notebook cells from top to bottom.
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+### 2. Healthcare Data Analysis
+Explored a sample healthcare dataset to examine patient characteristics, medical measurements, treatment outcomes, and data quality.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### 3. Sports Analytics
+Analyzed cricket player statistics to compare runs, wickets, strike rates, and player performance.
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+### 4. Financial Market Analysis
+Analyzed sample stock market data to explore closing prices, daily returns, cumulative returns, trading volume, and volatility.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### 5. E-commerce Analytics
+Analyzed sample e-commerce orders to compare product revenue, category performance, regional sales, customer types, and quantities sold.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+## Repository Contents
+
+Each project includes:
+- A Jupyter Notebook containing the analysis and visualizations
+- A CSV dataset
+- A README file describing the project
+
+## Important Note
+
+The datasets used in these projects are synthetic sample data created for learning and demonstration. They do not represent real customer, patient, sports, or financial records.
+
+## Goals
+
+- Strengthen practical Python and data analysis skills
+- Improve statistical thinking and data visualization
+- Build a portfolio of documented, reproducible projects
+- Continue developing skills through hands-on projects
+
+## Contact
+
+**GitHub:** [MoulyaKumar29](https://github.com/MoulyaKumar29)
